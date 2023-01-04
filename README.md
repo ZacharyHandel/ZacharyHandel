@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZacharyHandel
-- 👀 I’m interested in cybersecurity engineering and software development.
-- 🌱 I’m currently learning C++ and Python as well as information related to the Security+ certification.
-- 💞️ I’m looking to collaborate on projects that can help me grow my knowledge in these areas. 
-- 📫 How to reach me: zachary.handelzh@gmail.com
+# Zachary Handel
+**'Computer Science Student at the University of North Alabama'**
+
+PUT DESCRIPTION HERE (main body)
+
 
 <!---
 ZacharyHandel/ZacharyHandel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
