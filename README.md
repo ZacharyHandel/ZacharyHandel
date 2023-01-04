@@ -7,6 +7,6 @@ Studying:
 - [Back End Web Development](https://github.com/ZacharyHandel/CodeAcademy_Portfolio_1)
 
 ***
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZacharyHandel &theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ZacharyHandel&count_private=true&show_icons=true&include_all_commits=true)  
 
 
