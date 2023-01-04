@@ -11,3 +11,6 @@ Studying:
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyHandel&hide=TeX&layout=compact)
 
+***
+## Skills
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
