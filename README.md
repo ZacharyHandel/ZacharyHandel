@@ -1,10 +1,12 @@
 # Zachary Handel
 **Computer Science Student at the University of North Alabama**
 
-PUT DESCRIPTION HERE (main body)
+Studying:
+- [Object Oriented Programming](https://github.com/ZacharyHandel/CS-355)
+- [Database Design and Development](https://github.com/ZacharyHandel/CS-447)
+- [Back End Web Development](https://github.com/ZacharyHandel/CodeAcademy_Portfolio_1)
+
+***
 
 
-<!---
-ZacharyHandel/ZacharyHandel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
