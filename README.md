@@ -1,5 +1,5 @@
 # Zachary Handel
-**'Computer Science Student at the University of North Alabama'**
+**Computer Science Student at the University of North Alabama**
 
 PUT DESCRIPTION HERE (main body)
 
