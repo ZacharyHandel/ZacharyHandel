@@ -4,7 +4,7 @@
 Studying:
 - [Object Oriented Programming](https://github.com/ZacharyHandel/CS-355)
 - [Database Design and Development](https://github.com/ZacharyHandel/CS-447)
-- [Computer Networking](https://github.com/ZacharyHandel/CodeAcademy_Portfolio_1)
+- [Computer Networking](https://github.com/ZacharyHandel/CS-440)
 
 ***
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZacharyHandel&count_private=true&show_icons=true&include_all_commits=true)  
