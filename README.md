@@ -1,5 +1,5 @@
 # Zachary Handel
-**Computer Science Student at the University of North Alabama**
+**Computer Science and Cyber Security Student at the University of North Alabama**
 
 Studying:
 - [Object Oriented Programming](https://github.com/ZacharyHandel/CS-355)
