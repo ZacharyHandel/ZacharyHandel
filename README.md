@@ -8,6 +8,7 @@ Studying:
 ***
 ## Highlighted Projects
 [Junior Capstone Project](https://github.com/ZacharyHandel/IFDGameEngineCapstone)
+
 [I Do! Online](https://github.com/ZacharyHandel/i-do-online)
 ***
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ZacharyHandel&count_private=true&show_icons=true&include_all_commits=true)  
