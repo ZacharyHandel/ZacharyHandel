@@ -6,7 +6,7 @@ Studying:
 - [Object Oriented Programming](https://github.com/ZacharyHandel/CS-355)
 - [Database Design and Development](https://github.com/ZacharyHandel/CS-447)
 - [Computer Networking](https://github.com/ZacharyHandel/CS-440)
-- Web Development
+- [Web Development](https://github.com/ZacharyHandel/CS-325)
 ***
 ## Highlighted Projects
 - [Junior Capstone Project](https://github.com/ZacharyHandel/IFDGameEngineCapstone)
