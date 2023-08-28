@@ -10,7 +10,7 @@ Studying:
 ***
 ## Highlighted Projects
 - [Junior Capstone Project](https://github.com/ZacharyHandel/IFDGameEngineCapstone)
-- [I Do! Online](https://github.com/ZacharyHandel/i-do-online)
+- [Zach and Kenslie's Wedding Site](https://github.com/ZacharyHandel/WeddingSite)
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyHandel&hide=TeX&layout=compact)
 ***
