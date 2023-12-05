@@ -12,6 +12,7 @@ Web Developer Intern at [nSide - The School Security Platform](https://nside.io/
 - [Junior Capstone Project](https://github.com/ZacharyHandel/IFDGameEngineCapstone)
 - [Zach and Kenslie's Wedding Site](https://github.com/ZacharyHandel/WeddingSite)
 - [Development for the Web Final Project](https://github.com/ZacharyHandel/CS-325_Final_Project)
+- [Linear Algebra+Python Games](https://github.com/ZacharyHandel/LinearGames)
 ***
 ## Skills
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
