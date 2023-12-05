@@ -11,6 +11,7 @@ Studying:
 ## Highlighted Projects
 - [Junior Capstone Project](https://github.com/ZacharyHandel/IFDGameEngineCapstone)
 - [Zach and Kenslie's Wedding Site](https://github.com/ZacharyHandel/WeddingSite)
+- [Development for the Web Final Project](https://github.com/ZacharyHandel/CS-325_Final_Project)
 ***
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZacharyHandel&hide=TeX&layout=compact)
 ***
