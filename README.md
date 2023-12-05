@@ -11,6 +11,7 @@ Web Developer Intern at [nSide - The School Security Platform](https://nside.io/
 - [Assembly Language and Computer Organization](https://github.com/ZacharyHandel/CS-310)
 - [Applied Statistics](https://github.com/ZacharyHandel/MA-345)
 - [Computer Science II](https://github.com/ZacharyHandel/CS-255)
+- Computer Architecture
 ***
 ## Highlighted Projects
 - [Junior Capstone Project](https://github.com/ZacharyHandel/IFDGameEngineCapstone)
