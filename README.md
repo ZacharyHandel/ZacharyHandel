@@ -2,6 +2,8 @@
 **Computer Science and Cybersecurity Student at the University of North Alabama and
 Web Developer Intern at [nSide - The School Security Platform](https://nside.io/)**
 
+[Resume](https://github.com/ZacharyHandel/Resume)
+
 Studying:
 - [Object Oriented Programming](https://github.com/ZacharyHandel/CS-355)
 - [Database Design and Development](https://github.com/ZacharyHandel/CS-447)
