@@ -3,7 +3,7 @@
 Web Developer Intern at [nSide - The School Security Platform](https://nside.io/)**
 ***
 ## Highlighted Academics
-- [Object Oriented Programming](https://github.com/ZacharyHandel/CS-355)
+- [Object Oriented Programming/Datastructures and Algorithms](https://github.com/ZacharyHandel/CS-355)
 - [Database Design and Development](https://github.com/ZacharyHandel/CS-447)
 - [Computer Networking](https://github.com/ZacharyHandel/CS-440)
 - [Web Development](https://github.com/ZacharyHandel/CS-325)
@@ -12,6 +12,9 @@ Web Developer Intern at [nSide - The School Security Platform](https://nside.io/
 - [Applied Statistics](https://github.com/ZacharyHandel/MA-345)
 - [Computer Science II](https://github.com/ZacharyHandel/CS-255)
 - Computer Architecture
+- Secure Software Developoment
+- Digital Forensics
+- Usable Privacy and Security
 ***
 ## Highlighted Projects
 - [Junior Capstone Project](https://github.com/ZacharyHandel/IFDGameEngineCapstone)
