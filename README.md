@@ -1,6 +1,5 @@
 # Zachary Handel ([Resume](https://github.com/ZacharyHandel/Resume))
-**Computer Science and Cybersecurity Student at the University of North Alabama and
-Engineering Intern at [nSide - The School Security Platform](https://nside.io/)**
+**Junior Web Developer at nSide, Inc. [nSide - The School Security Platform](https://nside.io/)**
 ***
 ## Highlighted Academics
 - [Object Oriented Programming/Datastructures and Algorithms](https://github.com/ZacharyHandel/CS-355)
