@@ -1,4 +1,5 @@
 # Zachary Handel ([Resume](https://github.com/ZacharyHandel/Resume))
+**B.S. in Computer Science**
 **Junior Web Developer at nSide, Inc. [nSide - The School Security Platform](https://nside.io/)**
 ***
 ## Highlighted Academics
