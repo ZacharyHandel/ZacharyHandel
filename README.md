@@ -1,29 +1,20 @@
 # Zachary Handel ([Resume](https://github.com/ZacharyHandel/Resume))
 **B.S. in Computer Science**
 
-**Junior Web Developer at nSide, Inc. [nSide - The School Security Platform](https://nside.io/)**
-***
-## Highlighted Academics
-- [Object Oriented Programming/Datastructures and Algorithms](https://github.com/ZacharyHandel/CS-355)
-- [Database Design and Development](https://github.com/ZacharyHandel/CS-447)
-- [Computer Networking](https://github.com/ZacharyHandel/CS-440)
-- [Web Development](https://github.com/ZacharyHandel/CS-325)
-- [Operating Systems](https://github.com/ZacharyHandel/CS-420)
-- [Assembly Language and Computer Organization](https://github.com/ZacharyHandel/CS-310)
-- [Applied Statistics](https://github.com/ZacharyHandel/MA-345)
-- [Computer Science II](https://github.com/ZacharyHandel/CS-255)
-- Computer Architecture
-- Secure Software Developoment
-- Digital Forensics
-- Usable Privacy and Security
-***
-## Highlighted Projects
-- [Junior Capstone Project](https://github.com/ZacharyHandel/IFDGameEngineCapstone)
-- [Zach and Kenslie's Wedding Site](https://github.com/ZacharyHandel/WeddingSite)
-- [Development for the Web Final Project](https://github.com/ZacharyHandel/CS-325_Final_Project)
-- [Linear Algebra+Python Games](https://github.com/ZacharyHandel/LinearGames)
+**Web Developer at TEKsystems**
 ***
 ## Skills
+### Current Technology Stack
+![DOTNET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web Forms](https://img.shields.io/badge/Web%20Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### Other Technologies
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://camo.githubusercontent.com/85dd8c38ef3fd94472ab991bed05066671c0bd12129002379f11d3ca352f9956/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4326636f6c6f723d323232323232266c6f676f3d43266c6f676f436f6c6f723d413842394343266c6162656c3d)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
