@@ -36,7 +36,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 1[Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
+***
+## Open Source Contributions
+1. maweJS:
+* Export Preview Index Scrolling Functionality: https://github.com/mkoskim/mawejs/issues/308
+* README Development Environment Documentation: https://github.com/mkoskim/mawejs/issues/312
 ***
 ## Contact Me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-handel/)
